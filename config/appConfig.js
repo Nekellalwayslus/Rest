@@ -11,7 +11,7 @@ global.password_admin = 'Nekellganteng';
 global.connection = {
   host: '51.222.194.40',
   user: 'arkun',
-  password: 'arkun13370,',
+  password: 'arkun13370',
   database: 'tespanel'
 };
 

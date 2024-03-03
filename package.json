@@ -10,21 +10,7 @@
   },
   "creation_date": "Febuari 20, 2024",
   "update_date": "Feb 25, 2024",
-  "author": {
-    "name": "Nekell Ganteng",
-    "address": "Cirebon, West Java, Indonesia",
-    "careers": "Programmer - FullStack Web Developer",
-    "social_media": {
-      "tiktok": "@nklgns_",
-      "youtube": "@nekell1337",
-      "instagram": "@nekell1337_",
-      "linkedin": "@nklgns"
-    },
-    "contact": {
-      "email": "nekell@nekellnotme.biz.id",
-      "phone_number": "+62 896 9507 3357"
-    }
-  },
+  "author": "Nekell Ganteng",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
@@ -57,5 +43,9 @@
   },
   "devDependencies": {
     "nodemon": "~3.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
